@@ -31,3 +31,5 @@ LinkingTo:
     rstan (>= 2.18.1),
     StanHeaders (>= 2.18.0)
 SystemRequirements: GNU make
+URL: https://github.com/nikosbosse/stantest
+BugReports: https://github.com/nikosbosse/stantest/issues
